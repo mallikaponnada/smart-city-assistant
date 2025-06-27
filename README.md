@@ -5,6 +5,9 @@
 
 A modular AI-powered Smart City Assistant with web dashboard, mobile app, and comprehensive integrations for urban sustainability management.
 
+## Demo Video Click the link below⬇️⬇️⬇️
+https://drive.google.com/file/d/1vQ05XsoCnsrZZpiGWjxhAuYdM9YNIahf/view?usp=sharing
+
 ## 🚀 Features
 
 ### Web Dashboard
