@@ -8,6 +8,12 @@ A modular AI-powered Smart City Assistant with web dashboard, mobile app, and co
 ## Demo Video Click the link below⬇️⬇️⬇️
 https://drive.google.com/file/d/1vQ05XsoCnsrZZpiGWjxhAuYdM9YNIahf/view?usp=sharing
 
+## 📄 Project Documents
+
+- [📝 Sustainable Smart City (.docx)](https://github.com/mallikaponnada/smart-city-assistant/blob/main/documents/Sustainable%20Smart%20City.docx)
+- [📘 Sustainable Smart City (.pdf)](https://github.com/mallikaponnada/smart-city-assistant/blob/main/documents/Sustainable%20Smart%20City.pdf)
+
+
 ## 🚀 Features
 
 ### Web Dashboard
